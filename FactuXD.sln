@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactuXD", "FactuXD\FactuXD.csproj", "{ACEFDDCC-F676-4497-ABFA-C1779A670C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLibreria", "MiLibreria\MiLibreria.csproj", "{02D2BF8F-20B2-476C-A55F-983D30009FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEFDDCC-F676-4497-ABFA-C1779A670C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEFDDCC-F676-4497-ABFA-C1779A670C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEFDDCC-F676-4497-ABFA-C1779A670C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEFDDCC-F676-4497-ABFA-C1779A670C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D2BF8F-20B2-476C-A55F-983D30009FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D2BF8F-20B2-476C-A55F-983D30009FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D2BF8F-20B2-476C-A55F-983D30009FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D2BF8F-20B2-476C-A55F-983D30009FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9E1807-B6F4-4FFB-84C1-AC8DD0FD054C}
+	EndGlobalSection
+EndGlobal
